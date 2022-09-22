@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo12423
-Fork on GitHub3129
 <h1 align="center">Hi 👋, I'm Kamal Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
