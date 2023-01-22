@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalsharma3" alt="kamalsharma3" /></a> </p>
 
-- 🌱 I’m currently learning **Sanity**
+- 🌱 Currently learning **Sanity**
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, ReactJS, NextJS, BootStrap, Tailwind CSS, WordPress, Woocommerce**
 
